@@ -2,33 +2,33 @@
 
 ## Node.js Website Team (`@nodejs/nodejs-website`)
 
-- [@araujogui](https://github.com/araujogui) - **Guilherme Araújo** (he/him)
+- [@araujogui](https://github.com/araujogui) - **Guilherme Araújo** <<arauujogui@gmail.com>> (he/him)
 - [@AugustinMauroy](https://github.com/AugustinMauroy) - **Augustin Mauroy** (he/him)
-- [@avivkeller](https://github.com/avivkeller) - **Aviv Keller** (he/him)
-- [@aymen94](https://github.com/aymen94) - **Aymen Naghmouchi**
+- [@avivkeller](https://github.com/avivkeller) - **Aviv Keller** <<me@aviv.sh>> (he/him)
+- [@aymen94](https://github.com/aymen94) - **Aymen Naghmouchi** <<aymenadvance@gmail.com>>
 - [@benhalverson](https://github.com/benhalverson) - **Ben Halverson** (he/him)
-- [@bjohansebas](https://github.com/bjohansebas) - **Sebastian Beltran**
-- [@bmuenzenmeyer](https://github.com/bmuenzenmeyer) - **Brian Muenzenmeyer** (he/him)
-- [@bnb](https://github.com/bnb) - **Tierney Cyren** (they/them)
-- [@canerakdas](https://github.com/canerakdas) - **Caner Akdas**
-- [@dario-piotrowicz](https://github.com/dario-piotrowicz) - **Dario Piotrowicz**
+- [@bjohansebas](https://github.com/bjohansebas) - **Sebastian Beltran** <<bjohansebas@gmail.com>>
+- [@bmuenzenmeyer](https://github.com/bmuenzenmeyer) - **Brian Muenzenmeyer** <<brian.muenzenmeyer@gmail.com>> (he/him)
+- [@bnb](https://github.com/bnb) - **Tierney Cyren** <<hello@bnb.im>> (they/them)
+- [@canerakdas](https://github.com/canerakdas) - **Caner Akdas** <<canerakdas@gmail.com>>
+- [@dario-piotrowicz](https://github.com/dario-piotrowicz) - **Dario Piotrowicz** <<dario.piotrowicz@gmail.com>>
 - [@Harkunwar](https://github.com/Harkunwar) - **Harkunwar Kochar** (he/him)
-- [@manishprivet](https://github.com/manishprivet) - **Manish Kumar** (he/him)
-- [@mikeesto](https://github.com/mikeesto) - **Michael Esteban** (he/him)
-- [@ovflowd](https://github.com/ovflowd) - **Claudio Wunder** (they/them)
+- [@manishprivet](https://github.com/manishprivet) - **Manish Kumar** <<me@manishk.dev>> (he/him)
+- [@mikeesto](https://github.com/mikeesto) - **Michael Esteban** <<hi.mikeesto@gmail.com>> (he/him)
+- [@ovflowd](https://github.com/ovflowd) - **Claudio Wunder** <<cwunder@gnome.org>> (they/them)
 
 ## Node.js Web Infra Team (`@nodejs/web-infra`)
 
-- [@avivkeller](https://github.com/avivkeller) - **Aviv Keller** (he/him)
-- [@bmuenzenmeyer](https://github.com/bmuenzenmeyer) - **Brian Muenzenmeyer** (he/him)
-- [@canerakdas](https://github.com/canerakdas) - **Caner Akdas**
+- [@avivkeller](https://github.com/avivkeller) - **Aviv Keller** <<me@aviv.sh>> (he/him)
+- [@bmuenzenmeyer](https://github.com/bmuenzenmeyer) - **Brian Muenzenmeyer** <<brian.muenzenmeyer@gmail.com>> (he/him)
+- [@canerakdas](https://github.com/canerakdas) - **Caner Akdas** <<canerakdas@gmail.com>>
 - [@flakey5](https://github.com/flakey5) - **flakey5** (he/him)
-- [@MattIPv4](https://github.com/MattIPv4) - **Matt Cowley** (he/him)
-- [@MoLow](https://github.com/MoLow) - **Moshe Atlow** (he/him)
-- [@ovflowd](https://github.com/ovflowd) - **Claudio Wunder** (they/them)
+- [@MattIPv4](https://github.com/MattIPv4) - **Matt Cowley** <<me@mattcowley.co.uk>> (he/him)
+- [@MoLow](https://github.com/MoLow) - **Moshe Atlow** <<moshe@atlow.co.il>> (he/him)
+- [@ovflowd](https://github.com/ovflowd) - **Claudio Wunder** <<cwunder@gnome.org>> (they/them)
 
 ## Node.js Web Admins Team (`@nodejs/web-admins`)
 
-- [@bmuenzenmeyer](https://github.com/bmuenzenmeyer) - **Brian Muenzenmeyer** (he/him)
-- [@MattIPv4](https://github.com/MattIPv4) - **Matt Cowley** (he/him)
-- [@ovflowd](https://github.com/ovflowd) - **Claudio Wunder** (they/them)
+- [@bmuenzenmeyer](https://github.com/bmuenzenmeyer) - **Brian Muenzenmeyer** <<brian.muenzenmeyer@gmail.com>> (he/him)
+- [@MattIPv4](https://github.com/MattIPv4) - **Matt Cowley** <<me@mattcowley.co.uk>> (he/him)
+- [@ovflowd](https://github.com/ovflowd) - **Claudio Wunder** <<cwunder@gnome.org>> (they/them)
